@@ -1,0 +1,22 @@
+{
+  "name": "week2.1",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ksnow13/Sample.git"
+  },
+  "author": "Kyle Snow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ksnow13/Sample/issues"
+  },
+  "homepage": "https://github.com/Ksnow13/Sample#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
